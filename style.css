@@ -126,6 +126,8 @@ footer {
 
   color: #d29350;
   text-decoration: none;
+  
+ cursor: pointer; 
 }
 
 .button-link:hover {
