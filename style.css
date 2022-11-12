@@ -40,7 +40,7 @@ body {
 }
 
 .links {
-  width: 400px;
+  width: 430px;
   margin-bottom: 40px;
 }
 
@@ -79,9 +79,9 @@ body {
   flex-direction: row;
   align-items: flex-start;
   padding: 0px 0px 10px;
-  gap: 80px;
+  gap: 100px;
   border-bottom: 1px solid #22262d;
-  width: 350px;
+  width: 380px;
 }
 
 .links__link:last-child {
@@ -133,4 +133,9 @@ footer {
 .button-link:hover {
   background: #f2da0634;
   color: #58a5fe;
+}
+
+.build {
+  display: flex;
+  color: #ffffff;
 }
